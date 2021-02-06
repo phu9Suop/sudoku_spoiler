@@ -3,5 +3,5 @@ This helps you solving the sudoku you never managed. Before you give up, and whe
 Follow the manual inside.
 # sudoku_ein_zellbefehl
 This file shows the command in the first of the 81 evaluation cells.
-It is best opende with a vim editor or similar. 
+It is best opened with a vim editor or similar. 
 have fun !
